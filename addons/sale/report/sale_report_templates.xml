@@ -68,7 +68,7 @@
                 <!-- In case we want to repeat the header, remove "display: table-row-group" -->
                 <thead style="display: table-row-group">
                     <tr>
-                        <th name="th_description" class="text-left">Description</th>
+                        <th name="th_description" class="text-left">Description1</th>
                         <th name="th_quantity" class="text-right">Quantity</th>
                         <th name="th_priceunit" class="text-right">Unit Price</th>
                         <th name="th_discount" t-if="display_discount" class="text-right" groups="product.group_discount_per_so_line">
